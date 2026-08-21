@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://babitaiise.github.io/readme-mliwk8/sitemap.xml
